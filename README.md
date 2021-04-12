@@ -10,6 +10,8 @@ The second screenshot shows the page as it normally appears without using this s
 Runs on Firefox and on Google Chrome browsers as of Nov 2017. 
 Sept 2020: Moving to the use of TamperMonkey.
 
+Userscript hosting is at https://openuserjs.org/scripts/slow!/WebEraser.
+
 ### How to install
 
 Firstly, install into your browser an extension called 'TamperMonkey', or one called 'GreaseMonkey', these are userscript managers.  You can find the extension at the chrome web store: https://chrome.google.com/webstore/category/extensions, or at a firefox extensions website.
