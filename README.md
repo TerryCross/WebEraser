@@ -17,7 +17,7 @@ The second screenshot shows the page as it normally appears without using this s
 After installing this script clicking on a browser webpage, on any advert/image/text etc., whilst holding down the "Ctrl" key, erases it by drawing curtains over it.  Upon revisiting the page at another time, the advert/image etc. will still be erased.  A double Click on an erased (curtained) space temporarily reveals that which was erased.
 
 If clicking on the item tends to cause other effects such as opening a new tab or visiting another page, the the 
-special mennu option "Erase via mouse hover" can be invoked without having to click on the item.
+special menu option "Erase via mouse hover" can be invoked without having to click on the item.
 
 The script also adds to the TamperMonkey (GreaseMonkey) menu a command that gives access to the scripts options.  One of which allows one to set the 'curtain' image to a http image address or a base64 string.  It also allows manual alteration of the selectors used to find elements for erasure.  Another option allows for complete erasure of items leaving more space for other items on the page (for this, untick the "preserve layout" tickbox).
 
