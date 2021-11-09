@@ -7,16 +7,11 @@ Firstly, install into your browser an extension called 'TamperMonkey', or one ca
 
 Secondly, install this script by clicking on the link: https://github.com/SloaneFox/WebEraser/raw/main/WebEraser.user.js.
 
-###
+### Overview
 Below, at the end, you will find two screenshots of a typical website that uses banner ads.
 
 The first screenshot shows the page after using this script to erase the ad.  
 The second screenshot shows the page as it normally appears without using this script.
-
-Runs on Firefox and on Google Chrome browsers as of Nov 2017. 
-Sept 2020: Moving to the use of TamperMonkey.
-
-Userscript hosting is at https://openuserjs.org/scripts/slow!/WebEraser.
 
 ### How To Use
 After installing this script clicking on a browser webpage, on any advert/image/text etc., whilst holding down the "Ctrl" key, erases it by drawing curtains over it.  Upon revisiting the page at another time, the advert/image etc. will still be erased.  A double Click on an erased (curtained) space temporarily reveals that which was erased.
