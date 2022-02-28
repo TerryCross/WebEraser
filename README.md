@@ -3,7 +3,7 @@ Erase parts of webpages.
 
 ### How to install
 
-Firstly, install into your browser an extension called 'TamperMonkey', or one called 'GreaseMonkey', these are userscript managers.  You can find the extension at the chrome web store: https://chrome.google.com/webstore/category/extensions, or at a firefox extensions website.
+Firstly, install into your browser an extension called 'TamperMonkey', or one called 'GreaseMonkey', these are userscript managers.  You can find the extension at the chrome web store: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo, or at the firefox extensions website, https://addons.mozilla.org/en-US/firefox/addon/tampermonkey.
 
 Secondly, install this script by clicking on the link: https://github.com/TerryCross/WebEraser/raw/main/WebEraser.user.js.
 
