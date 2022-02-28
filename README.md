@@ -5,7 +5,7 @@ Erase parts of webpages.
 
 Firstly, install into your browser an extension called 'TamperMonkey', or one called 'GreaseMonkey', these are userscript managers.  You can find the extension at the chrome web store: https://chrome.google.com/webstore/category/extensions, or at a firefox extensions website.
 
-Secondly, install this script by clicking on the link: https://github.com/SloaneFox/WebEraser/raw/main/WebEraser.user.js.
+Secondly, install this script by clicking on the link: https://github.com/TerryCross/WebEraser/raw/main/WebEraser.user.js.
 
 ### Overview
 Below, at the end, you will find two screenshots of a typical website that uses banner ads.
@@ -30,13 +30,13 @@ Save this script by clicking the right mouse button upon the link mentioned abov
 The script's menu is then accessible from any webpage in Chrome via the small 'Monkey' icon at the top right of any page.
 
 ### Screenshot One:
-![Large banner ad at the StackOverflow website has been erased whilst preserving layout](https://github.com/SloaneFox/imgstore/raw/master/StackoverflowCurtainedAd.png "Large banner ad at stack overflow has been erased whilst preserving layout")
+![Large banner ad at the StackOverflow website has been erased whilst preserving layout](https://github.com/TerryCross/imgstore/raw/master/StackoverflowCurtainedAd.png "Large banner ad at stack overflow has been erased whilst preserving layout")
 <br><br><br><br>
 
 ### ================================================================================
 ### Screenshot Two:
 ### ================================================================================
 
-![Stackoverflow as it normally is with banner ad.](https://github.com/SloaneFox/imgstore/raw/master/StackoverflowWithAd.png "StackOverflow as it normally appears.")
+![Stackoverflow as it normally is with banner ad.](https://github.com/TerryCross/imgstore/raw/master/StackoverflowWithAd.png "StackOverflow as it normally appears.")
 
 WebEraser, Nuke Anything on the web with Weberaser.
