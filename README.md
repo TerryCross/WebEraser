@@ -40,8 +40,6 @@ The script's menu is then accessible from any webpage in Chrome via the small 'M
 -->
 
 <img src="https://github.com/TerryCross/imgstore/raw/master/StackoverflowCurtainedAd.png" width="350" alt="Large banner ad at the StackOverflow website has been erased whilst preserving layout">
-### ===============================================================================
-<br><br><br><br>
 
 ### ================================================================================
 ### Screenshot Two:
