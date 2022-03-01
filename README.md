@@ -39,4 +39,4 @@ The script's menu is then accessible from any webpage in Chrome via the small 'M
 
 ![Stackoverflow as it normally is with banner ad.](https://github.com/TerryCross/imgstore/raw/master/StackoverflowWithAd.png "StackOverflow as it normally appears.")
 
-WebEraser, Nuke Anything on the web with Weberaser.
+WebEraser, Cover anything on the web with Weberaser.
