@@ -39,14 +39,17 @@ The script's menu is then accessible from any webpage in Chrome via the small 'M
    ![Large banner ad at the StackOverflow website has been erased whilst preserving layout] 
 -->
 
-<img src="https://github.com/TerryCross/imgstore/raw/master/StackoverflowCurtainedAd.png" width="148">
+<img src="https://github.com/TerryCross/imgstore/raw/master/StackoverflowCurtainedAd.png" width="350" alt="Large banner ad at the StackOverflow website has been erased whilst preserving layout">
 ### ===============================================================================
 <br><br><br><br>
 
 ### ================================================================================
 ### Screenshot Two:
 ### ================================================================================
+<img src="https://github.com/TerryCross/imgstore/raw/master/StackoverflowWithAd.png" width="350" alt="Stackoverflow as it normally is with banner ad.">
 
-![Stackoverflow as it normally is with banner ad.](https://github.com/TerryCross/imgstore/raw/master/StackoverflowWithAd.png "StackOverflow as it normally appears.")
+<!--
+   ![Stackoverflow as it normally is with banner ad.](https://github.com/TerryCross/imgstore/raw/master/StackoverflowWithAd.png "StackOverflow as it  normally appears.")
+-->
 
 WebEraser, Cover anything on the web with Weberaser.
