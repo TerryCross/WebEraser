@@ -31,7 +31,7 @@ The script's menu is then accessible from any webpage in Chrome via the small 'M
 
 ### ==============================================================================
 ### Screenshot One:
-![Large banner ad at the StackOverflow website has been erased whilst preserving layout](https://github.com/TerryCross/imgstore/raw/master/StackoverflowCurtainedAd.png height="48" width="48" "Large banner ad at stack overflow has been erased whilst preserving layout")
+![Large banner ad at the StackOverflow website has been erased whilst preserving layout](https://github.com/TerryCross/imgstore/raw/master/StackoverflowCurtainedAd.png "Large banner ad at stack overflow has been erased whilst preserving layout")
 ### ===============================================================================
 <br><br><br><br>
 
