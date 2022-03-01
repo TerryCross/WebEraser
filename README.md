@@ -8,9 +8,9 @@ Firstly, install into your browser an extension called 'TamperMonkey', or one ca
 Secondly, install this script by clicking on the link: https://github.com/TerryCross/WebEraser/raw/main/WebEraser.user.js.
 
 ### Overview
-Below, at the end, you will find two screenshots of a typical website that uses banner ads.
+Below, at the end, you will find two screenshots of a typical website that uses large images.
 
-The first screenshot shows the page after using this script to erase the ad.  
+The first screenshot shows an example page from stackoverflow after having used this script to erase the image.  
 The second screenshot shows the page as it normally appears without using this script.
 
 ### How To Use
@@ -29,8 +29,10 @@ Save this script by clicking the right mouse button upon the link mentioned abov
 
 The script's menu is then accessible from any webpage in Chrome via the small 'Monkey' icon at the top right of any page.
 
+### ==============================================================================
 ### Screenshot One:
-![Large banner ad at the StackOverflow website has been erased whilst preserving layout](https://github.com/TerryCross/imgstore/raw/master/StackoverflowCurtainedAd.png "Large banner ad at stack overflow has been erased whilst preserving layout")
+![Large banner ad at the StackOverflow website has been erased whilst preserving layout](https://github.com/TerryCross/imgstore/raw/master/StackoverflowCurtainedAd.png height="48" width="48" "Large banner ad at stack overflow has been erased whilst preserving layout")
+### ===============================================================================
 <br><br><br><br>
 
 ### ================================================================================
