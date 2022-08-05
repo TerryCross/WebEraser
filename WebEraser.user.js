@@ -1,18 +1,18 @@
 // ==UserScript==
 // @name        WebEraser
-// @version     1.7.4
+// @version     1.7.5
 // @updateURL   https://openuserjs.org/meta/slow!/WebEraser.meta.js
 // @downloadURL https://openuserjs.org/install/slow!/WebEraser.user.js
 // @namespace   sfswe
 // @description Erase parts of any webpage --annoyances, logos, ads, images, etc., permanently with just, Ctrl + Left-Click.
 // @license     GPL-3.0-only
-// @copyright   2018, slow! (https://openuserjs.org/users/slow!)
+// @copyright   2018, TerryCross (https://github.com/TerryCross)
 // @include     *
 // @require     https://code.jquery.com/jquery-3.2.1.js
 // @require     https://code.jquery.com/ui/1.12.1/jquery-ui.js
-// @require     https://raw.githubusercontent.com/SloaneFox/code/master/sfs-utils-0.1.6.js
+// @require     https://raw.githubusercontent.com/TerryCross/code/master/sfs-utils-0.1.6.js
 // @run-at      document-start
-// @icon        https://raw.githubusercontent.com/SloaneFox/imgstore/master/WebEraserIcon.gif
+// @icon        https://raw.githubusercontent.com/TerryCross/imgstore/master/WebEraserIcon.gif
 // @author      Sloane Fox
 // @grant       GM_registerMenuCommand
 // @grant       GM_getValue
@@ -2122,7 +2122,7 @@ async function getResourceUrl(res_name){ // simply extract url from above resour
 profileTimer("end globs setup"); //end of outer code whilst main() etc wait for events.
 
 function profileTimer(stage, reset) {
-	//return;                               //!! for profiling only.
+	return;                               //!! for profiling only.
 	if( ! profileTimer[stage])
         profileTimer[stage] = {
             tstamp: performance.now()       //new Date()).getTime()
